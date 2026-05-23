@@ -43,36 +43,6 @@ AI tools online...
 
 ---
 
-## ⭐ Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techchipnet&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 🔥 Featured Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techchipnet&repo=CamPhish&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techchipnet&repo=hound&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techchipnet&repo=HiddenWave&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techchipnet&repo=aircrack-mcp&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📌 Pinned Security / Hardware Projects
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techchipnet&repo=5Ghz-Hotspot-Router&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=techchipnet&repo=ESP32-BLE-HID&theme=radical&hide_border=true" />
-</p>
-
----
 
 ## ⚙️ Tech Stack
 
